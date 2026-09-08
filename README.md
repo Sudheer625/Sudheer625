@@ -216,20 +216,37 @@ JNTU-GV
 ## `~/github` — GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudheer625&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheer625&layout=compact&hide_border=true" height="170" alt="Top Languages">
+  <a href="https://github.com/Sudheer625">
+    <img
+      src="https://streak-stats.demolab.com?user=Sudheer625&hide_border=true"
+      alt="GitHub Contribution Streak"
+    >
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudheer625&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/Sudheer625?tab=achievements">
+    <img
+      src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Achievements"
+    >
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudheer625&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies">
+  <a href="https://github.com/Sudheer625?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/📦%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Repositories"
+    >
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudheer625&label=Profile%20Views&style=flat-square" alt="Profile Views">
+  <img
+    src="https://komarev.com/ghpvc/?username=Sudheer625&label=Profile%20Views&style=flat-square"
+    alt="Profile Views"
+  >
 </p>
 
 ## `~/connect` — Find me online
