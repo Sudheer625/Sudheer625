@@ -232,8 +232,6 @@ JNTU-GV
   <img src="https://komarev.com/ghpvc/?username=Sudheer625&label=Profile%20Views&style=flat-square" alt="Profile Views">
 </p>
 
----
-
 ## `~/connect` — Find me online
 
 <p align="center">
